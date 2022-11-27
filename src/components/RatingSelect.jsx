@@ -6,7 +6,7 @@ function RatingSelect({ select, selected }) {
   // }, [feedbackEdit])
 
   const handleChange = (e) => {
-    select(+e.currentTarget.value)
+    select(+e.currentTarget.value); //+: change string to number
   }
 
   // NOTE: simplified with iteration
