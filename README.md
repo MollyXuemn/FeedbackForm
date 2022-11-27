@@ -16,6 +16,9 @@ This project goes over all of the fundamentals of React including...
 - HTTP Requests
 
 ---
+# The interface:
+* You can leave your feedback in the app and edit, delete them.
+![image](https://github.com/MollyXuemn/FeedbackForm/tree/master/public/Page.png)
 
 # Usage
 
